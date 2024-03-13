@@ -46,3 +46,12 @@ Configuration
 -------------
 The configuration of dwm is done by creating a custom config.h
 and (re)compiling the source code.
+
+Some ScreenShots For You
+------------------------
+
+![desktopw](https://github.com/sandroamiridze/dwm1/assets/110345189/4accc23e-24b7-4603-b3b4-342a353d305d)
+
+![desktop](https://github.com/sandroamiridze/dwm1/assets/110345189/88e8aa7b-846b-4125-9548-cf4cba11f73c)
+
+![desktopw2](https://github.com/sandroamiridze/dwm1/assets/110345189/b156c88f-b2b9-4896-afb0-830c786df1f1)
