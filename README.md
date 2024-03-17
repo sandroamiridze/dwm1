@@ -52,6 +52,6 @@ Some ScreenShots For You
 
 ![nowindows](https://github.com/sandroamiridze/dwm1/assets/110345189/c6d55826-483c-45b4-ae3c-da2bfa460335)
 
-![windows](https://github.com/sandroamiridze/dwm1/assets/110345189/e09995b8-50ae-4c50-a59e-c5b04c2252a6)
+![windowf](https://github.com/sandroamiridze/dwm1/assets/110345189/d9d2da70-60a4-4d36-b7e0-81997e5e20d0)
 
 ![2024-03-17-174636_1366x768_scrot](https://github.com/sandroamiridze/dwm1/assets/110345189/706773a0-ecf6-404a-a1ec-159a539a6e78)
