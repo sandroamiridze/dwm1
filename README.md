@@ -50,8 +50,8 @@ and (re)compiling the source code.
 Some ScreenShots For You
 ------------------------
 
-![desktopw](https://github.com/sandroamiridze/dwm1/assets/110345189/4accc23e-24b7-4603-b3b4-342a353d305d)
+![nowindows](https://github.com/sandroamiridze/dwm1/assets/110345189/c6d55826-483c-45b4-ae3c-da2bfa460335)
 
-![desktop](https://github.com/sandroamiridze/dwm1/assets/110345189/88e8aa7b-846b-4125-9548-cf4cba11f73c)
+![windows](https://github.com/sandroamiridze/dwm1/assets/110345189/e09995b8-50ae-4c50-a59e-c5b04c2252a6)
 
-![desktopw2](https://github.com/sandroamiridze/dwm1/assets/110345189/b156c88f-b2b9-4896-afb0-830c786df1f1)
+![windowf](https://github.com/sandroamiridze/dwm1/assets/110345189/ec2f3616-f659-41aa-8380-20fad099e755)
