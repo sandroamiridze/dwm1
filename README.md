@@ -49,9 +49,12 @@ and (re)compiling the source code.
 
 Some ScreenShots For You
 ------------------------
+![awesame2](https://github.com/user-attachments/assets/e99b44b0-af52-4817-8cd1-d08244a03c82)
 
-![nowindows](https://github.com/sandroamiridze/dwm1/assets/110345189/c6d55826-483c-45b4-ae3c-da2bfa460335)
+![awesame5](https://github.com/user-attachments/assets/218a70cf-4101-4ce0-b1f2-a2871162fe4f)
 
-![windowf](https://github.com/sandroamiridze/dwm1/assets/110345189/d9d2da70-60a4-4d36-b7e0-81997e5e20d0)
+![awesame4](https://github.com/user-attachments/assets/ffb02fdd-17b4-4ba8-8fd5-b02e54d4abeb)
 
-![2024-03-17-174636_1366x768_scrot](https://github.com/sandroamiridze/dwm1/assets/110345189/706773a0-ecf6-404a-a1ec-159a539a6e78)
+![awesame3](https://github.com/user-attachments/assets/46c00ad7-c1d8-433c-b5d5-b01b1b77687f)
+
+![awesome](https://github.com/user-attachments/assets/98696eb6-2b0c-43a7-977f-7f3206d624ca)
