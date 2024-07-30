@@ -1,7 +1,7 @@
 dwm - dynamic window manager
 ============================
 This is my dwm .config which is an extremely fast, small, and dynamic window manager for X.
-
+Pywal - generates random colors for dwm so you need to install it!!
 
 Requirements
 ------------
